@@ -1,0 +1,16 @@
+BƯỚC 1 – Props (BẮT BUỘC HỌC TIẾP)
+BƯỚC 2 – Danh sách sản phẩm (map)
+BƯỚC 3 – Sự kiện (onClick)
+
+Index UI
+→ Props
+→ Product list
+→ Event
+→ Router
+→ Call API
+BƯỚC 4 – useState (GIỎ HÀNG – QUAN TRỌNG NHẤT)
+BƯỚC 5 – State nâng cao (Danh sách giỏ hàng)
+BƯỚC 6 – Điều kiện (Conditional Rendering)
+BƯỚC 7 – Router (react-router-dom)
+BƯỚC 8 – Gọi API (chuẩn web thật)
+BƯỚC 9 – UI/UX
